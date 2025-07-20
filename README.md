@@ -21,13 +21,12 @@
 
 #### 🚀 Projects
 - 🧠 Reelix
-- ☕ KioskCoffe – Full e-commerce solution with CMS
-- 📦 Mass Invitations System with Clerk + S3 + Excel parsing
+- ☕ QuioscoCoffe – Full e-commerce solution with CMS
+
 
 ---
 
 #### 📫 Let's connect!
 - 🌐 [My Portfolio]([https://tu-portfolio.com](https://nrojas-portafolio.vercel.app/))
-- 📧 niko.dev@email.com
-- 🐦 [Twitter](https://twitter.com/tu_usuario)
-- 💼 [LinkedIn](https://linkedin.com/in/tu_usuario)
+- 📧 nicolas.rojas140@inacapmail.cl
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-ignacio-rojas-huanquitripay-2a647b284/)
