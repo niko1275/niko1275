@@ -27,6 +27,6 @@
 ---
 
 #### 📫 Let's connect!
-- 🌐 [My Portfolio]([https://tu-portfolio.com](https://nrojas-portafolio.vercel.app/))
+- 🌐 [My Portfolio](https://nrojas-portafolio.vercel.app/)
 - 📧 nicolas.rojas140@inacapmail.cl
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-ignacio-rojas-huanquitripay-2a647b284/)
