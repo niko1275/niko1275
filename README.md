@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there 👋 I'm Nicolás
 
-<!--
-**niko1275/niko1275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm a passionate full-stack developer focused on building clean, scalable web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Tech Stack
+- **Frontend:** React, Next.js, TypeScript, TailwindCSS
+- **Backend:** Node.js, Express, NestJS, .NET, tRPC
+- **Databases:** PostgreSQL, MongoDB, Prisma, SQL Server
+- **DevOps:** Docker, Git, GitHub Actions
+
+---
+
+#### 📚 Currently learning
+- Clean Architecture
+- Advanced backend patterns (tRPC, CQRS, DDD)
+- Cloud services (AWS, GCP)
+
+---
+
+#### 🚀 Projects
+- 🧠 Mental Health Program (BPMN, clinical flows)
+- ☕ KioskCoffe – Full e-commerce solution with CMS
+- 📦 Mass Invitations System with Clerk + S3 + Excel parsing
+
+---
+
+#### 📫 Let's connect!
+- 🌐 [My Portfolio](https://tu-portfolio.com)
+- 📧 niko.dev@email.com
+- 🐦 [Twitter](https://twitter.com/tu_usuario)
+- 💼 [LinkedIn](https://linkedin.com/in/tu_usuario)
